@@ -1,0 +1,25 @@
+#DS_Store
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables (Secrets)
+.env
+
+# IDE Settings
+.vscode/
+.idea/
+*.xlsx
+
+# Distribution / Data
+dist/
+build/
+*.log
+*.sqlite3
