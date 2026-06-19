@@ -48,5 +48,5 @@ cd api-request-to-github-project
 
 Run a project:
 ```python
-python main.py
+python3 main.py
 ```
